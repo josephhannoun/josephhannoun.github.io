@@ -1,0 +1,27 @@
+.backimage{
+	background-image: url("technology.jpg");
+	background-size: 100%;
+	background-repeat: repeat-y;
+}
+
+.navbar{
+	background-color: transparent;
+}
+
+.jumbotron{
+	background-color: transparent !important;
+}
+.navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>.active>a:enabled {
+	background-color: transparent;
+}
+.nav>li {
+	background-color: transparent;
+}
+
+.navbar-inverse {
+border: none;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+	color: white;
+}
